@@ -17,7 +17,7 @@ Também foram percebidas algumas cintilações, talvez por causa da baixa frequ�
 
 [![Assista no YouTube](https://img.youtube.com/vi/AE4oXClc_3g/maxresdefault.jpg)](https://youtu.be/AE4oXClc_3g)
 
-**Vídeo com simulação Wokwi**
+
 
 [![Assista no YouTube](https://img.youtube.com/vi/Q9dCD4Umuz8/maxresdefault.jpg)](https://youtu.be/Q9dCD4Umuz8)
 
